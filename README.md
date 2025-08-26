@@ -117,10 +117,10 @@ samples/hello-world
 
 ## Container List
 
-| ชื่อ (บริการ)         | docker Hub | เวอร์ชั่น | ความพร้อมในการใช้งาน | อ้างอิงจาก (Docker Hub) | หมายเหตุ |
-|----------------------|--------------------------------------------|-----------|----------------------|-------------------------|----------|
-| Postgres Database    | satangthevalue/postgres                    | 16    | ✅                   | [Docker Hub](https://hub.docker.com/_/postgres) | ใช้สำหรับฐานข้อมูลหลัก |
-| pgAdmin              | satangthevalue/pgadmin                     | 9.7.0    | ✅                   | [Docker Hub](https://hub.docker.com/r/dpage/pgadmin4) | UI สำหรับจัดการ Postgres |
+| ชื่อ (บริการ)         | docker Hub | เวอร์ชั่น | ความพร้อมในการใช้งาน | HEALTHCHECK | อ้างอิงจาก (Docker Hub) | หมายเหตุ |
+|----------------------|--------------------------------------------|-----------|----------------------|-------------|-------------------------|----------|
+| Postgres Database    | satangthevalue/postgres                    | 16    | ✅                   | ✅          | [Docker Hub](https://hub.docker.com/_/postgres) | ใช้สำหรับฐานข้อมูลหลัก |
+| pgAdmin              | satangthevalue/pgadmin                     | 9.7.0    | ✅                   | ✅          | [Docker Hub](https://hub.docker.com/r/dpage/pgadmin4) | UI สำหรับจัดการ Postgres |
 
 ## ตัวอย่างการใช้งานจริง
 
