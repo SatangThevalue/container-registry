@@ -2,7 +2,7 @@
 **คู่มือสำหรับผู้เริ่มต้น** — เขียนสำหรับนักศึกษาและผู้สนใจใช้งานจริง  
 *ใช้งานได้ฟรีใน Azure Free Account*
 
-[![Azure Container Registry](https://learn.microsoft.com/en-us/azure/container-registry/media/container-registry-concepts/acr-diagram.png)](https://azure.microsoft.com/products/container-registry/)
+[![Azure Container Registry](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/container-registry_valueprop_3?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)](https://azure.microsoft.com/products/container-registry/)
 
 ---
 
